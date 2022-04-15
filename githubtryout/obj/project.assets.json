@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eshul\\Desktop\\githubtryout\\githubtryout\\githubtryout\\githubtryout.csproj",
+      "projectUniqueName": "C:\\Users\\eshul\\Desktop\\git try\\githubtryout\\githubtryout\\githubtryout.csproj",
       "projectName": "githubtryout",
-      "projectPath": "C:\\Users\\eshul\\Desktop\\githubtryout\\githubtryout\\githubtryout\\githubtryout.csproj",
+      "projectPath": "C:\\Users\\eshul\\Desktop\\git try\\githubtryout\\githubtryout\\githubtryout.csproj",
       "packagesPath": "C:\\Users\\eshul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eshul\\Desktop\\githubtryout\\githubtryout\\githubtryout\\obj\\",
+      "outputPath": "C:\\Users\\eshul\\Desktop\\git try\\githubtryout\\githubtryout\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eshul\\AppData\\Roaming\\NuGet\\NuGet.Config",
